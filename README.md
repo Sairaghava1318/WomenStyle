@@ -33,7 +33,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/womenstyle.git
+   git clone https://github.com/Sairaghava1318/womenstyle.git
    cd womenstyle
    ```
 
@@ -147,8 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sai Raghava**
-- GitHub: [@sairaghavas](https://github.com/sairaghavas)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@sairaghavas](https://github.com/sairaghava1318)
 
 ## 🙏 Acknowledgments
 
